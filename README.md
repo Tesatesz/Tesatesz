@@ -1,33 +1,50 @@
 <h1>Hi, I'm Theresa! 
   
-An aspiring Software Engineer
+Front-End Web Developer | lifelong learner | ALX SE Program
 
 <h1> About me 
+  
+I’m currently a **learner at the ALX Front-End Web Development Program**.
 
-I am currently pursuing a front-end development program in ALX, my goal is to transit into a career in front-end web development, where I can apply my organizational and communication skills to create beautiful and functional websites.
+💡 I started software engineering because I love **learning and doing hard things**. I'm constantly pushing boundaries to grow my skills.
 
-<h2>📺  YouTube Video on Project i worked on as the product manager</h2>
+🌍 My mission is to **help and impact society grow be a better place**.
+
+🤝 I’m passionate about **building apps and websites with dynamic, collaborative teams**.
+
+📫 How to reach me: [Mukumukutheresa@gmail.com]  
+🌐 Portfolio: [https://sites.google.com/view/theresamukumuku/home](https://sites.google.com/view/theresamukumuku/home)
+
+---
+## 🛠️ Skills & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+</div>
+---
+
+## 🔥 What I’m Currently Working On
+
+- 🌱 Improving my JavaScript and React.js skills
+- 💻 Building real-world projects from scratch
+- 📘 Studying responsive design and UI/UX best practices
+
+<h2>📺 Here is of the projects I’m proud of:
+</h2>
 
 https://youtu.be/iorZbDvueds
 
-<h2> 🤳 Connect with me:</h2>
+## 🎯 Goals for 2025
+
+- ✅ Complete ALX Front-End Program with strong portfolio
+- 🔄 Contribute to 5+ open-source projects
+- 🌟 Land a role where I can build beautiful, useful products that solve real problems
 
 
-[<img align="left" alt="mukumukutheresa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🤝 Let's Connect!
 
-[linkedin]: https://linkedin.com/in/theresa-mukumuku
-[Gmail address]: mukumukutheresa@gmail.com
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/theresa-mukumuku"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mukumukutheresa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/tesatesz"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
